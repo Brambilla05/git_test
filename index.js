@@ -3,7 +3,7 @@ const rs = document.querySelector('#list');
 const template = `
   <button class="btn btn-outline-light item" value=%value" id="%n">%value</button>
 `;
-
+// test modifica per git 
 let tmp = 0;
 let position = [];
 const ex = [1, 2, 3];
